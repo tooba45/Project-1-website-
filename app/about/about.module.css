@@ -1,0 +1,10 @@
+.container{
+    color:darkorchid;
+    background: lightgray;
+}
+
+.header{
+    text-align: center;
+    color: lightblue;
+    background-color:rgb(121, 25, 199);
+}

@@ -1,0 +1,10 @@
+.container{
+    color:rgb(55, 17, 73);
+    background: lightgray;
+}
+
+.header{
+    text-align: center;
+    color: lightcyan;
+    background-color:darkcyan;
+}

@@ -1,0 +1,21 @@
+.home{
+    text-align: center;
+    color:aliceblue;
+    background-color: rgb(212, 19, 51);
+    text-decoration: dotted;
+}
+
+
+.about{
+    color: pink;
+    text-decoration: underline;
+}
+
+.contact{
+    color: rgb(18, 15, 153);
+    text-decoration: underline;
+}
+.services{
+    color: rgb(105, 153, 15);
+    text-decoration: underline;
+}
